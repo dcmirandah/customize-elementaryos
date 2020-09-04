@@ -1,6 +1,7 @@
 # Useful software
 - `sudo apt install gnome-disk-utility`
 - `sudo apt install gnome-system-monitor`
+- `sudo add-apt-repository ppa:kasra-mp/ubuntu-indicator-weather` and `sudo apt-get install indicator-weather`
 
 ## Express vpn
 https://www.expressvpn.com/support/vpn-setup/app-for-linux/#install
